@@ -1,0 +1,14 @@
+c:\Users\christopher.gunnars\Desktop\arv\bin\Debug\net8.0\Arv.exe
+c:\Users\christopher.gunnars\Desktop\arv\bin\Debug\net8.0\Arv.deps.json
+c:\Users\christopher.gunnars\Desktop\arv\bin\Debug\net8.0\Arv.runtimeconfig.json
+c:\Users\christopher.gunnars\Desktop\arv\bin\Debug\net8.0\Arv.dll
+c:\Users\christopher.gunnars\Desktop\arv\bin\Debug\net8.0\Arv.pdb
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\Arv.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\Arv.AssemblyInfoInputs.cache
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\Arv.AssemblyInfo.cs
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\Arv.csproj.CoreCompileInputs.cache
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\Arv.dll
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\refint\Arv.dll
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\Arv.pdb
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\Arv.genruntimeconfig.cache
+c:\Users\christopher.gunnars\Desktop\arv\obj\Debug\net8.0\ref\Arv.dll
